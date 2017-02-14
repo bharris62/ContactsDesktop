@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="org.jodd:jodd-all:3.8.1" type="repository">
+    <properties maven-id="org.jodd:jodd-all:3.8.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-all/3.8.1/jodd-all-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-bean/3.8.1/jodd-bean-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-core/3.8.1/jodd-core-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-db/3.8.1/jodd-db-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-log/3.8.1/jodd-log-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-decora/3.8.1/jodd-decora-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-lagarto/3.8.1/jodd-lagarto-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-servlet/3.8.1/jodd-servlet-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-upload/3.8.1/jodd-upload-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-htmlstapler/3.8.1/jodd-htmlstapler-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-http/3.8.1/jodd-http-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-json/3.8.1/jodd-json-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-jtx/3.8.1/jodd-jtx-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-madvoc/3.8.1/jodd-madvoc-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-props/3.8.1/jodd-props-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-petite/3.8.1/jodd-petite-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-mail/3.8.1/jodd-mail-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/mail/javax.mail-api/1.5.6/javax.mail-api-1.5.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/activation/activation/1.1/activation-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-proxetta/3.8.1/jodd-proxetta-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jodd/jodd-vtor/3.8.1/jodd-vtor-3.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
